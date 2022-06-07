@@ -15,4 +15,6 @@
 #define i32 int32_t
 #define i64 int64_t
 
+#define uchar unsigned char
+#define uint unsigned int
 #endif
